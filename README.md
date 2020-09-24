@@ -1,2 +1,2 @@
 # Hackerrank-Rest-API
-Solution for Hackerrank REST API Certification (Intermediate)
+Python solution for Hackerrank REST API Certification (Intermediate)
